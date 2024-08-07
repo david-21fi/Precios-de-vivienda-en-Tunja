@@ -1,0 +1,23 @@
+datos recolectados
+RangeIndex: 220 entries, 0 to 219
+Data columns (total 13 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   Habitaciones          220 non-null    int64  
+ 1   Baños                 220 non-null    int64  
+ 2   Estrato               220 non-null    int64  
+ 3   Área_construida       220 non-null    int64  
+ 4   Código inmueble       220 non-null    object 
+ 5   Barrio común          218 non-null    object 
+ 6   Precio                220 non-null    object peso colombianos
+ 7   Antigüedad            220 non-null    object m2
+ 8   Área construida       220 non-null    object m2
+ 9   Área privada          220 non-null    object 
+ 10  Valor administración  113 non-null    object 
+ 11  Parqueaderos          176 non-null    float64
+ 12  estado                211 non-null    object 
+dtypes: float64(1), int64(4), object(8)
+memory usage: 22.5+ KB
+
+
+proceden de la pargina web metro cuadrado.

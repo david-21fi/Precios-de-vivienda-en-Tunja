@@ -1,0 +1,16 @@
+Tipodepropiedad,CódigoInmueble,Venta/Arriendo,Ciudad,Sector,Baños,Tamaño,TamañoLote,Estrato,Valor,PrecioNegociable,Año,CasaparaEstrenar,Celaduria,ConjuntoCerrado,Celaduría,Ascensor,ValorArrendamiento,Parquedero,AdministraciónIncluida,ValorenVenta,Avenida,Piso,Negociable,ZonasSociales,Habitaciones,Garaje,Deposito,ValorparaVenta,Garajes,Ascensores,Parqueadero,ValordeAdministración,Administración
+Casa,31096,Venta,Tunja,Centro,2,213m²,331m²,3,$400.000.000,Si,,,,,,,,,,,,,,,,,,,,,,,
+Casa,30914,Venta,Tunja,Norte,3,139.91m²,87m²,4,$580.000.000,,2023,Si,,,,,,,,,,,,,,,,,,,,,
+Casa,30890,Arriendo,Tunja,Norte,3,Aprox.140m²,,5,$2.200.000 /mes,,,,Opcional,,,,,,,,,,,,,,,,,,,,
+Casa,30836,Venta,Tunja,Norte,3,140.10m²,,5,$650.000.000,,,,,Si,Si,,,,,,,,,,,,,,,,,,
+Casa,30433,Venta,Tunja,Sur,2,135m²,,3,$230.000.000,,,,,,,,,,,,,,,,,,,,,,,,
+Casa,29199,Venta,Tunja,Occidente,4,145m²,,,Contacte por Precio                                ,,,,,,,,,,,,,,,,,,,,,,,,
+Apartamento,31134,"Arriendo,Venta",Tunja,Norte,2,50.31m²,,,$1.700.000 /mes,,,,,,,Si,$1.700.000,Si,Si,$300.000.000,,,,,,,,,,,,,
+Apartamento,31006,Venta,Tunja,Unicentro,2,76.84m²,,5,$350.000.000,,,,,,,Si,,,,,Universitaria,9,Si,,,,,,,,,,
+Apartamento,30948,Venta,Tunja,Unicentro,3,74.33m²,,,$320.000.000,,,,,,,Si,,,,,Universitaria,4,,Si,2,,,,,,,,
+Apartamento,30689,Venta,Tunja,Norte,2,100m²,,5,$390.000.000,,,,,,,Si,,,,,Universitaria,,Si,,,Si,Si,,,,,,
+Apartamento,30402,"Arriendo,Venta",Tunja,Norte,1,38m²,,3,$160.000.000 /mes,,,,,,,,,,Si,,,,,,2,,,$160.000.000,,,,,
+Apartamento,30073,Venta,Tunja,Norte,4,232m²,,5,$600.000.000,,,,,,,,,,,,,,,,4,,,,2,,,,
+Apartamento,30055,Venta,Tunja,Norte,2,78m²,,5,$230.000.000,,,,,,,,,,,,,16,,,,,,,,Si,Si,,
+Apartamento,29978,Venta,Tunja,Norte,2,97m²,,5,$340.000.000,,,,,,,Si,,2,,,Universitaria,7,,,,,Si,,,,,$239.200,
+Apartamento,29237,Venta,Tunja,Norte,2,70m²,,4,$190.000.000,,,,,,,,,,,,,,,,,,,,,,No,,No
