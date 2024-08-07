@@ -7,8 +7,8 @@ Este proyecto se centra en la recolección de datos de precios de viviendas en l
 ## Fuente de Datos
 Los datos se han extraído de varias páginas web de anuncios de venta de viviendas. Aquí se mencionan algunas de las fuentes utilizadas:
 - [Puntopropiedad](https://www.puntopropiedad.com)
-- [metrocudrado](https://www.metrocuadrado.com)
-- [Casas.trivit](https://casas.trovit.com.co/)
+- [metrocuadrado](https://www.metrocuadrado.com)
+- [Casas.trovit](https://casas.trovit.com.co/)
 
 ## Proceso ETL
 ### Extracción
@@ -54,5 +54,5 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/david-21fi/Precios-de-vivienda-en-Tunja.git
    cd nombre-del-repositorio
